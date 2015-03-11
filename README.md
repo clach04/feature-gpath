@@ -1,5 +1,5 @@
-# feature_gpath
+# feature-gpath
 
-![screenshot](feature_gpath_screenshot.png)
+![screenshot](feature-gpath-screenshot.png)
 
 This example shows how to draw a path.
